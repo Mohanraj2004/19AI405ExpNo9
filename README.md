@@ -1,6 +1,6 @@
 # ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
-## Name: Gunaseelan G
-## Register Number: 212221230031
+## Name: S.Mohan raj
+## Register Number: 212221230065
 ## Aim:
 
 To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
